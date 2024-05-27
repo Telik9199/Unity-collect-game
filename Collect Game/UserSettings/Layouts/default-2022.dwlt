@@ -322,7 +322,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -330,7 +330,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/ethanallcock/Documents/GitHub/Unity-collect-game/Collect
     Game
@@ -338,9 +338,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 65.5}
-    m_SelectedIDs: 04060000
-    m_LastClickedID: 1540
-    m_ExpandedIDs: 00000000040600005006000098060000d40600002807000000ca9a3b
+    m_SelectedIDs: 3c060000
+    m_LastClickedID: 1596
+    m_ExpandedIDs: 00000000040600003c06000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -395,7 +395,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -646,9 +646,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2c080000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9af2feff90f3feff58c7000006c80000eccd0000a4d00000a8d00000f8d00000a6d2000054d70000dad80000
+      m_ExpandedIDs: eaf9fefff0fafeff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1002,9 +1002,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 140.72427, y: -164.38654, z: 205.79813}
+    m_Target: {x: 297.07507, y: -122.74505, z: 73.310486}
     speed: 2
-    m_Value: {x: 140.72427, y: -164.38654, z: 205.79813}
+    m_Value: {x: 297.07507, y: -122.74505, z: 73.310486}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1050,9 +1050,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.35812137, y: -0.1228353, z: 0.046501707, w: -0.9252979}
+    m_Target: {x: -0.22321053, y: -0.5833289, z: 0.16921261, w: -0.7635134}
     speed: 2
-    m_Value: {x: -0.35782123, y: -0.122732356, z: 0.046462737, w: -0.92452246}
+    m_Value: {x: -0.22023341, y: -0.58563286, z: 0.16797902, w: -0.7617837}
   m_Size:
     m_Target: 133.46674
     speed: 2
