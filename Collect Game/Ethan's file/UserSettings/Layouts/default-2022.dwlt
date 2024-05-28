@@ -333,14 +333,14 @@ MonoBehaviour:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/ethanallcock/Documents/GitHub/Unity-collect-game/Collect
-    Game
+    Game/Ethan's file
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 65.5}
     m_SelectedIDs: 3c060000
     m_LastClickedID: 1596
-    m_ExpandedIDs: 00000000040600003c06000000ca9a3b
+    m_ExpandedIDs: 000000000406000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -646,9 +646,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 3c060000
       m_LastClickedID: 0
-      m_ExpandedIDs: eaf9fefff0fafeff
+      m_ExpandedIDs: f0fafeff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1052,7 +1052,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.22321053, y: -0.5833289, z: 0.16921261, w: -0.7635134}
     speed: 2
-    m_Value: {x: -0.22023341, y: -0.58563286, z: 0.16797902, w: -0.7617837}
+    m_Value: {x: 0.22321053, y: 0.5833289, z: -0.16921261, w: 0.7635134}
   m_Size:
     m_Target: 133.46674
     speed: 2
